@@ -1,0 +1,592 @@
+/* 1200px */
+@media (max-width: 75em) {
+  .about_text2,
+  .about_text3 {
+    width: 30rem;
+    font-size: 1.8rem;
+    line-height: 1.6;
+  }
+  .about_text1 h1 {
+    font-size: 2rem;
+  }
+  .im {
+    width: 52rem;
+  }
+  .text h1 {
+    font-size: 2.4rem;
+  }
+  .about_text {
+    height: 35rem;
+  }
+  .about_title h1 {
+    font-size: 4.4rem;
+  }
+  .school-life-items p {
+    font-size: 2rem;
+  }
+  .map777 {
+    width: 40rem;
+    height: 48rem;
+  }
+  .map_input input {
+    width: 100%;
+    height: 4rem;
+  }
+  .logo h2 {
+    font-size: 2rem;
+  }
+  ul {
+    display: flex;
+    gap: 1rem;
+  }
+  ul li a {
+    font-size: 1.8rem;
+  }
+}
+/* 1157px */
+@media (max-width: 72.3em) {
+  .st1_h1,
+  .st2_h1,
+  .st3_h1 {
+    font-size: 6.2rem;
+  }
+  .hero2_bottom {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 1000px */
+@media (max-width: 62.5em) {
+  .about_text2,
+  .about_text3 {
+    width: 27rem;
+    font-size: 1.6rem;
+    line-height: 1.6;
+  }
+  .about_title h1 {
+    font-size: 3.6rem;
+  }
+  .about h1 {
+    font-size: 4.4rem;
+  }
+  .about p {
+    font-size: 3.6rem;
+  }
+  .im {
+    width: 40rem;
+  }
+  .text h1 {
+    font-size: 2rem;
+  }
+  .text p {
+    font-size: 1.6rem;
+    line-height: 1.6;
+  }
+  .about_us :nth-child(1),
+  .about_us :nth-child(2),
+  .about_us :nth-child(3) {
+    width: 25rem;
+    height: 17rem;
+    padding-top: 3rem;
+    font-size: 3rem;
+  }
+  .school-life-items p {
+    font-size: 1.6rem;
+    line-height: 1.6;
+  }
+  .contact_box_text p {
+    font-size: 1.6rem;
+  }
+  .contact_box {
+    height: 30rem;
+  }
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.4rem;
+  }
+  .four {
+    display: none;
+  }
+  .nav {
+  }
+  ul li a {
+    font-size: 1.6rem;
+  }
+  .logo img {
+    width: 15%;
+  }
+  .logo h2 {
+    font-size: 1.8rem;
+  }
+  .st1_h1,
+  .st2_h1,
+  .st3_h1 {
+    font-size: 5.2rem;
+  }
+  .our_teachers_img h1 {
+    font-size: 4.4rem;
+  }
+}
+/* 850px */
+@media (max-width: 53em) {
+  .about_title h1 {
+    font-size: 3.6rem;
+    margin: 2.4rem;
+  }
+  .about {
+    height: 300px;
+  }
+  .about_text {
+    padding-top: 3rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    height: 22rem;
+    border-bottom: 4px solid #1f927f;
+  }
+  .about_text2,
+  .about_text3 {
+    width: 30rem;
+    font-size: 1.4rem;
+    line-height: 1.6;
+  }
+  .about_text1 h1 {
+    font-size: 1.6rem;
+  }
+  .im {
+    width: 35rem;
+  }
+  .about_us :nth-child(1),
+  .about_us :nth-child(2),
+  .about_us :nth-child(3) {
+    width: 20rem;
+    height: 12rem;
+    padding-top: 3rem;
+    font-size: 2rem;
+  }
+}
+
+/* 800px */
+@media (max-width: 50em) {
+  .our_teachers_title h1 {
+    font-size: 4.4rem;
+  }
+  .about h1 {
+    font-size: 3.6rem;
+  }
+  .about p {
+    font-size: 3rem;
+  }
+  .about_text2,
+  .about_text3 {
+    width: 20rem;
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  .about_text {
+    gap: 3rem;
+    height: 22rem;
+  }
+  .im {
+    width: 28rem;
+  }
+  .text h1 {
+    font-size: 1.6rem;
+  }
+  .text p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  .text img {
+    width: 3rem;
+  }
+  .about_us :nth-child(1),
+  .about_us :nth-child(2),
+  .about_us :nth-child(3) {
+    width: 16rem;
+    height: 8rem;
+    font-size: 1.6rem;
+  }
+  .about_us {
+    margin-top: 3rem;
+  }
+
+  .img1 {
+    margin-top: 2.2rem;
+  }
+  .school-life-items p {
+    font-size: 1.2rem;
+  }
+  .title-school-life h2 {
+    font-size: 3rem;
+  }
+  .contact_box_text {
+    font-size: 1.4rem;
+    line-height: 1.6;
+  }
+  .blue {
+    font-size: 1.8rem;
+    gap: 2rem;
+  }
+  .map777 {
+    width: 30rem;
+    height: 48rem;
+  }
+  .contact_logos2 {
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .contact_box2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    color: white;
+    padding-top: 6rem;
+  }
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.4rem;
+  }
+  .third {
+    display: none;
+  }
+  .st1_h1,
+  .st2_h1,
+  .st3_h1 {
+    font-size: 4.4rem;
+  }
+  .our_teachers_icon_title h1 {
+    font-size: 4.4rem;
+  }
+  .teachers_picture {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
+  }
+  .teachers_picture img {
+    width: 20rem;
+  }
+  .our_teachers_img h1 {
+    font-size: 3.6rem;
+  }
+  .our_teachers_icon {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+/* 600px */
+@media (max-width: 37.5em) {
+  .our_teachers_title h1 {
+    font-size: 3.6rem;
+  }
+  .our_teachers_icon1 img {
+    font-size: 15rem;
+  }
+  .our_teachers_icon_title h1 {
+    font-size: 3.4rem;
+  }
+  .about_text {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    height: 28rem;
+    gap: 1rem;
+  }
+  .about_text2,
+  .about_text3 {
+    width: 100%;
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  .about_text1 h1 {
+    font-size: 1.4rem;
+    width: 20rem;
+  }
+  .img1 {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .text {
+    width: 100%;
+    margin-top: 2rem;
+  }
+  .about {
+    height: 200px;
+    padding-left: 4rem;
+  }
+  .about h1 {
+    font-size: 2.4rem;
+  }
+  .about p {
+    font-size: 2rem;
+  }
+  .about_us {
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+  }
+  .reverse2 {
+    flex-direction: column-reverse;
+  }
+  .school-life {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .school-life-items p {
+    font-size: 1.2rem;
+  }
+  .contact_box2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  .contact_box {
+    height: 40rem;
+  }
+  .theme2 {
+    font-size: 3.6rem;
+  }
+  .theme3 {
+    font-size: 1.6rem;
+  }
+  .map_input {
+    gap: 3rem;
+    grid-template-columns: 1fr;
+  }
+  .map777 {
+    width: 100%;
+  }
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2.4rem;
+  }
+  .second {
+    display: none;
+  }
+  .st1_h1,
+  .st2_h1,
+  .st3_h1 {
+    font-size: 3.6rem;
+    top: 20rem;
+  }
+  .hero2_bottom_left {
+    padding: 2rem;
+    padding-top: 5rem;
+  }
+  .our_teachers_img h1 {
+    font-size: 3rem;
+  }
+  .our_teachers_icon {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+/* 450px */
+@media (max-width: 28.125em) {
+  .contact_box2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .contact_box {
+    height: 50rem;
+  }
+  .our_teachers_icon {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .opportunities {
+    width: 90%;
+    height: 40%;
+    padding: 1rem;
+    box-shadow: 0rem 0rem 1.2rem rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+  }
+}
+/* 400px */
+@media (max-width: 25em) {
+  .address-footer,
+  .email-footer {
+    font-size: 1.8rem;
+  }
+  .logo-footer h1 {
+    font-size: 2.2rem;
+  }
+  .about {
+    height: 150px;
+    padding-left: 2rem;
+  }
+  .text {
+    line-height: 3rem;
+    margin-top: 2rem;
+  }
+  .im {
+    width: 20rem;
+  }
+  .about h1 {
+    font-size: 1.8rem;
+  }
+  .about p {
+    font-size: 1.2rem;
+  }
+  .about_title h1 {
+    font-size: 2.4rem;
+  }
+  .school-life {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .title-school-life h2 {
+    font-size: 2rem;
+  }
+  .about_title h1 {
+    font-size: 3rem;
+  }
+  .bg-color-school-life {
+    background-color: #2b6777;
+    width: 100%;
+    padding: 1rem 0;
+  }
+  .contact_box2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .contact_box {
+    height: 50rem;
+  }
+  .contact_logos2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .map777 {
+    height: 30rem;
+  }
+  .st1_h1,
+  .st2_h1,
+  .st3_h1 {
+    font-size: 3rem;
+    top: 20rem;
+  }
+  .our_teachers_img h1 {
+    font-size: 3rem;
+  }
+  .our_teachers_title h1 {
+    font-size: 3rem;
+  }
+  .our_teachers_icon1 h1 {
+    margin-top: 1.8rem;
+  }
+  .our_teachers_icon1 p {
+    font-size: 1.8rem;
+  }
+  .our_teachers_icon {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+/* llll */
+@media screen and (max-width: 43.85em) {
+  .topnav a:not(:first-child) {
+    display: none;
+  }
+  .header {
+    display: none;
+  }
+  .res {
+    display: block;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 43.75em) {
+  .topnav.responsive {
+    position: relative;
+  }
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+@media (max-width: 93.75em) {
+  .blog-section h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0px;
+    line-height: 1.5;
+  }
+  .blog-section p {
+    font-size: 1.6rem;
+  }
+  .blog-section span {
+    font-size: 1.2rem;
+  }
+  .teachers_picture {
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 50px;
+  }
+  .our_teachers_icon {
+    gap: 20px;
+  }
+}
+@media (max-width: 75em) {
+  .teachers_picture {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
+  }
+
+  .blog-section p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 62.5em) {
+  .blog-section p span {
+    display: none;
+  }
+}
+@media (max-width: 50em) {
+  .blog-section .reverce > div:nth-child(2) {
+    grid-row: 1;
+  }
+  .blog-section h2 {
+    font-size: 4.4rem;
+  }
+  .blog-section .container {
+    width: 90%;
+  }
+  .reverse11 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+  }
+  .blog-section .box11 {
+    grid-template-columns: 1fr;
+  }
+  .blog-section {
+    background-color: #f4f4f4;
+    padding: 1rem 0;
+  }
+  .blog-section h2 {
+    font-size: 4.4rem;
+    margin-top: 2rem;
+  }
+  .blog-section p span {
+    /* shu joyni index.html siga span tagini kiritganman */
+    display: static;
+  }
+}
